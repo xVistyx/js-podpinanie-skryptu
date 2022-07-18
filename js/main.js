@@ -1,3 +1,3 @@
-alert = 'Skrypt działa prawidłowo!'; 
+let alerty = alert('Skrypt działa prawidłowo!'); 
 
-console.log(alert);
+console.log(alerty);
